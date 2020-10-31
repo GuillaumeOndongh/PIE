@@ -1,1 +1,1 @@
-hello world bitch
+hello world
